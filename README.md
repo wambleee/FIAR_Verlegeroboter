@@ -12,11 +12,11 @@ Seit den Flutkatastrophen hierzulande, u.a. dem Elbhochwasser von 2006 und der z
 
 Verwendete Hardware
 ============
-*1x Arduino
-*1x L293D Motorshield (https://funduinoshop.com/elektronische-module/elektromotoren-und-zubehoer/motor-shields/l293d-motorshield-fuer-arduino-uno-und-mega)
-*1x Piezo Speaker
-*1x Makeblock RGB Linefollower (https://www.robots4all.be/Me-RGB-Line-Follower-V1?Lng=en)
-*1x Lichtschranke
-*1x DC-186 Akku
-*1x Stabiles Tank Chassis / Kettenfahrzeug / Roboter Kit TK005 (https://funduinoshop.com/diy-werkstatt/bausaetze/chassis/stabiles-tank-chassis/kettenfahrzeug/roboter-kit-tk005-fuer-arduino-projekte-geeignet)
-*1x HC-05 Bluetooth Modul
+* 1x Arduino
+* 1x L293D Motorshield (https://funduinoshop.com/elektronische-module/elektromotoren-und-zubehoer/motor-shields/l293d-motorshield-fuer-arduino-uno-und-mega)
+* 1x Piezo Speaker
+* 1x Makeblock RGB Linefollower (https://www.robots4all.be/Me-RGB-Line-Follower-V1?Lng=en)
+* 1x Lichtschranke
+* 1x DC-186 Akku
+* 1x Stabiles Tank Chassis / Kettenfahrzeug / Roboter Kit TK005 (https://funduinoshop.com/diy-werkstatt/bausaetze/chassis/stabiles-tank-chassis/kettenfahrzeug/roboter-kit-tk005-fuer-arduino-projekte-geeignet)
+* 1x HC-05 Bluetooth Modul
