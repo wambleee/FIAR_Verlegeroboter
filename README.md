@@ -1,7 +1,7 @@
 # FIAR_Verlegeroboter
 Verlegeroboter Projekt  für Eingebette Systeme - Prüft die Verlegung der Heizungsverlegung
-
 * Wiki Page: http://wiki.hrw-fablab.de/index.php?title=FIAR
+
 Der Floorheat Installation Assistance Robot, kurz FIAR, ist ein eigenständig fahrendes Fahrzeug, welches den zuständigen Installateur dabei unterstützt, die Fußbodenheizung fehlerfrei in die Fugen zu verlegen. Unser Roboter folgt hierfür den Schlauch und überprüft, ob die Leitung bündig mit den Gipsplatten abschließt. Falls ein Abstand zwischen Platte und Schlauch festgestellt wird,
 meldet der FIAR sich akustisch und sendet eine entsprechende Nachricht via Bluetooth auf das Smartphone des Installateur. Zur Verbindung mit dem Roboter kann man eine Bluetooth Controller App nutzen. Der Installateur kann dann den Fehler begleichen und in der App bestätigen, damit der Roboter weiterfährt.
 
